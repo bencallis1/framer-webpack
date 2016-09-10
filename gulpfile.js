@@ -30,6 +30,7 @@ var paths = {
   sketchSlices: path.join(__dirname, 'src/*.slices.sketch'),
 };
 
+
 var sketchSlices = argv.slices || false;
 var copyTask = (sketchSlices) ? 'sketch:slices' : 'copy';
 console.log("Using " + copyTask);

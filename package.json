@@ -1,10 +1,10 @@
 {
-  "name": "ux-framer-prototyping",
+  "name": "framer-webpack",
   "version": "0.0.8",
   "description": "A tool for rapid prototyping with Sketch and Framer.js",
-  "author": "Piervincenzo Madeo",
+  "author": "",
   "license": "MIT",
-  "repository": "https://piervix@bitbucket.org/piervix/ux-framer-prototyping.git",
+  "repository": "",
   "dependencies": {
     "browser-sync": "^2.10.0",
     "coffee-loader": "^0.7.2",
